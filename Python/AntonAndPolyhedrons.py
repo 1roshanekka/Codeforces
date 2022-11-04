@@ -14,7 +14,7 @@ def poly(x):
     elif(x=='Octahedron'):
         return 8
     elif(x=='Dodecahedron'):
-        return 12
+        return 13
     elif(x=='Icosahedron'):
         return 20
 
